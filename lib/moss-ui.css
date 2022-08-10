@@ -1,0 +1,17 @@
+.xx-button {
+  color: #fff;
+  background-color: #e55039;
+  padding: 10px;
+  border: none;
+}
+.xx-button:hover {
+  background-color: #eb7866;
+}
+.xx-tag {
+  display: inline-block;
+  color: #e55039;
+  border: 1px solid #e55039;
+  padding: 5px 10px;
+  background-color: #ffffff;
+}
+
